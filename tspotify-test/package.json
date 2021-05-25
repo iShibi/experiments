@@ -1,0 +1,11 @@
+{
+  "name": "tspotify-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "tspotify": "0.0.7"
+  },
+  "type": "module"
+}
