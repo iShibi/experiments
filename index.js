@@ -11,8 +11,8 @@ client.on('ready', () => {
             market: 'IN'
         });
         let artist = searchedArtists.items.first();
-        console.log(artist);
-    }, 300000);
+        console.log(artist.name);
+    }, 1200000);
 });
 
 const clientID = process.env.CLIENT_ID;

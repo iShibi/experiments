@@ -5,7 +5,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "tspotify": "0.0.7"
+    "tspotify": "0.0.8"
   },
   "type": "module"
 }
