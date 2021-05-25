@@ -3,6 +3,7 @@ import { Client } from 'tspotify';
 const client = new Client();
 
 client.on('ready', () => {
+    console.log(`Logged in at ${client.readyAt.toLocaleString()}`);
     setInterval(async () => {
         let searchedArtists = await client.artists.search({
             query: 'Clairo',
