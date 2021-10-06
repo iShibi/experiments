@@ -1,1 +1,1 @@
-<a id='badge' href="#" onclick="document.getElementById('badge').href+=`gitpod.io/#${window.location.href}`"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2&style=flat-square" alt="Twitter API v2" /></a>
+<a id='badge' onclick="document.getElementById('badge').href+=`gitpod.io/#${window.location.href}`"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2&style=flat-square" alt="Twitter API v2" /></a>
